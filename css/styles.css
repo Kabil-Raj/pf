@@ -1,0 +1,83 @@
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.intro_parent {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-color: #ECECEC;
+}
+
+.profile {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  position: absolute;
+  left: 90px;
+  top: 90px;
+}
+
+
+.intro {
+
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    left: 27.5rem;
+    top: 4rem;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+}
+
+#heading {
+  font-family: 'Tangerine', cursive;
+  font-size: 3rem;
+  text-align: left;
+  color: #385170;
+}
+
+.projects {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  background-color: #ECECEC;
+}
+
+.image {
+  position: absolute;
+  left: 40%;
+  width: 500px;
+  height: 270px;
+  top: 30px;
+}
+.project_info {
+  position: absolute;
+  top: 25%;
+  left: 10%;
+
+
+}
+
+h3 {
+  font-family: 'Tangerine', cursive;
+  font-size: 2rem;
+  color: #385170;
+}
+
+.link {
+  font-size: 1.5rem;
+  line-height: 3;
+}
+
+.project_link {
+  font-size: 1.5rem;
+}
+
+.empty {
+  width: 100%;
+  height: 50px;
+}
